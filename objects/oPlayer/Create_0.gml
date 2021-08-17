@@ -23,3 +23,5 @@ spriteIdle = sPlayer;
 // Referring to the movement animations the local fram tells GM that the idle frame is 0 of the animation
 
 localFrame = 0;
+
+//fatcocks
